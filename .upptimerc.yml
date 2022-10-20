@@ -7,11 +7,12 @@ sites:
     url: https://froggy.danielnaoexiste.dev/
   - name: Froggy API
     url: https://froggy-api.danielnaoexiste.dev/api
+    icon: https://froggy.danielnaoexiste.dev/froggy.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /bot-status
+  cname: https://froggy-status.danielnaoexiste.dev
   theme: dark
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   favicon: https://froggy.danielnaoexiste.dev/froggy.ico
