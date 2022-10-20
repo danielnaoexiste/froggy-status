@@ -12,7 +12,9 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /bot-status
+  theme: dark
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  favicon: https://froggy.danielnaoexiste.dev/froggy.ico
   name: Froggy Status
   introTitle: "**Froggy** is customizable general purpose discord bot."
   introMessage: Ribbit
