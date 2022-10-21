@@ -1,22 +1,22 @@
 [
   {
     "name": "Froggy Bot",
-    "url": "137.66.47.61",
+    "url": "froggy-bot.fly.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "froggy-bot",
     "status": "down",
-    "uptime": "77.76%",
-    "uptimeDay": "77.76%",
-    "uptimeWeek": "77.76%",
-    "uptimeMonth": "77.76%",
-    "uptimeYear": "77.76%",
+    "uptime": "24.72%",
+    "uptimeDay": "24.72%",
+    "uptimeWeek": "24.72%",
+    "uptimeMonth": "24.72%",
+    "uptimeYear": "24.72%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-21": 0
+      "2022-10-21": 3
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 322,
-    "timeDay": 322,
-    "timeWeek": 322,
-    "timeMonth": 322,
-    "timeYear": 322,
+    "time": 325,
+    "timeDay": 325,
+    "timeWeek": 325,
+    "timeMonth": 325,
+    "timeYear": 325,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 293,
-    "timeWeek": 293,
-    "timeMonth": 293,
-    "timeYear": 293,
+    "time": 298,
+    "timeDay": 298,
+    "timeWeek": 298,
+    "timeMonth": 298,
+    "timeYear": 298,
     "dailyMinutesDown": {}
   }
 ]
