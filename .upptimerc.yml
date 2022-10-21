@@ -3,6 +3,8 @@ owner: danielnaoexiste
 repo: froggy-status
 
 sites:
+  - name: Froggy Bot
+    url: 137.66.47.61
   - name: Froggy Web
     url: https://froggy.danielnaoexiste.dev/
   - name: Froggy API
