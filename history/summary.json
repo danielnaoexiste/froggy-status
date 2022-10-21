@@ -1,5 +1,25 @@
 [
   {
+    "name": "Froggy Bot",
+    "url": "137.66.47.61",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "froggy-bot",
+    "status": "down",
+    "uptime": "85.96%",
+    "uptimeDay": "85.96%",
+    "uptimeWeek": "85.96%",
+    "uptimeMonth": "85.96%",
+    "uptimeYear": "85.96%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-10-21": 0
+    }
+  },
+  {
     "name": "Froggy Web",
     "url": "https://froggy.danielnaoexiste.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/froggy.danielnaoexiste.dev.ico",
@@ -10,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 332,
-    "timeDay": 332,
-    "timeWeek": 332,
-    "timeMonth": 332,
-    "timeYear": 332,
+    "time": 322,
+    "timeDay": 322,
+    "timeWeek": 322,
+    "timeMonth": 322,
+    "timeYear": 322,
     "dailyMinutesDown": {}
   },
   {
