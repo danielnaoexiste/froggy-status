@@ -3,9 +3,6 @@ owner: danielnaoexiste
 repo: froggy-status
 
 sites:
-  - name: Froggy Bot
-    url: froggy-bot.fly.dev
-    icon: https://froggy.danielnaoexiste.dev/froggy.ico
   - name: Froggy Web
     url: https://froggy.danielnaoexiste.dev/
   - name: Froggy API
