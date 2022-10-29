@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 357,
-    "timeDay": 344,
-    "timeWeek": 426,
-    "timeMonth": 357,
-    "timeYear": 357,
+    "time": 580,
+    "timeDay": 1910,
+    "timeWeek": 939,
+    "timeMonth": 580,
+    "timeYear": 580,
     "dailyMinutesDown": {}
   },
   {
@@ -28,32 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 263,
-    "timeWeek": 298,
-    "timeMonth": 298,
-    "timeYear": 298,
+    "time": 299,
+    "timeDay": 283,
+    "timeWeek": 301,
+    "timeMonth": 299,
+    "timeYear": 299,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Froggy Bot",
-    "url": "http://137.66.47.61/",
-    "icon": "https://froggy.danielnaoexiste.dev/froggy.ico",
-    "slug": "froggy-bot",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "69.97%",
-    "uptimeWeek": "69.97%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-10-29": 0,
-      "2022-10-21": 3
-    }
   }
 ]
