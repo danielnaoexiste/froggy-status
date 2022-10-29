@@ -8,6 +8,9 @@ sites:
   - name: Froggy API
     url: https://froggy-api.danielnaoexiste.dev/api
     icon: https://froggy.danielnaoexiste.dev/froggy.ico
+  - name: Froggy Bot
+    url: http://137.66.47.61/
+    icon: https://froggy.danielnaoexiste.dev/froggy.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
