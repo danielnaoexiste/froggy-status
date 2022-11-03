@@ -22,7 +22,7 @@
     "url": "https://froggy-api.danielnaoexiste.dev/api",
     "icon": "https://froggy.danielnaoexiste.dev/froggy.ico",
     "slug": "froggy-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 300,
     "timeMonth": 301,
     "timeYear": 301,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-03": 0
+    }
   }
 ]
