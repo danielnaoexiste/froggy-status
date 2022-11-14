@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/froggy.danielnaoexiste.dev.ico",
     "slug": "froggy-web",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 654,
-    "timeDay": 329,
-    "timeWeek": 312,
-    "timeMonth": 654,
-    "timeYear": 654,
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 642,
+    "timeDay": 206,
+    "timeWeek": 278,
+    "timeMonth": 642,
+    "timeYear": 642,
     "dailyMinutesDown": {
       "2022-11-08": 25
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 303,
-    "timeDay": 344,
-    "timeWeek": 317,
-    "timeMonth": 303,
-    "timeYear": 303,
+    "time": 300,
+    "timeDay": 194,
+    "timeWeek": 297,
+    "timeMonth": 300,
+    "timeYear": 300,
     "dailyMinutesDown": {
       "2022-11-03": 38
     }
