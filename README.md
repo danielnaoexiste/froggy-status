@@ -1,4 +1,4 @@
-# [📈 Live Status](https://danielnaoexiste.github.io/bot-status): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://danielnaoexiste.github.io/froggy-status): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for Froggy, powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -21,7 +21,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://danielnaoexiste.github.io/bot-status)
+[**Visit our status website →**](https://danielnaoexiste.github.io/froggy-status)
 
 ## 📄 License
 
